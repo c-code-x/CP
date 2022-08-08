@@ -1,5 +1,5 @@
-# **Competetive Pogramming in Codex:**
-**CODEX** is a platform for all enthusiastic tech minds. To know more about codex click [here](./Codex_intro.md).**The competitive Programming Domain** in **Codex** functions to conduct Competitive programming tests like contests and hackathons. This is also called as [CP_Domain](./cp_in_codex.md) in Codex. 
+# **Competetive Programming in Codex:**
+**CODEX** is a platform for all enthusiastic tech minds. To know more about codex click [here](./Codex_intro.md). **The competitive Programming Domain** in **Codex** functions to conduct Competitive programming tests like contests and hackathons. This is also called as [CP_Domain](./cp_in_codex.md) in Codex. 
 
 There are two functions of **CODEX** to ensure **Competitive Programming**. They are:
 - [Coding Contest](./coding_contest.md)
