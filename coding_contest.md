@@ -2,8 +2,8 @@
 **Coding Contest** is a competition held frequently (at least once a month). These are again two types:
 * Monthly Coding Contest(MCT)
 * Coding Against Hackathon
-##  Coding Contest (MCT):
-A monthly Coding contest is a general Contest held on a small scale and once a month at least. MCT is referred to as "Small-Hackathon." 
+##  Monthly Coding Contest (MCT):
+A Monthly Coding contest is a general Contest held on a small scale and once a month at least. MCT is referred to as "Small-Hackathon." 
 
  **Format**
 - The Contest is conducted on a special theme.
