@@ -3,8 +3,8 @@
 
 There are two functions of **CODEX** to ensure **Competitive Programming**. They are:
 - [Coding Contest](./coding_contest.md)
+  * Monthly Coding Contest (MCT)
   * Coding Against Time (CAT)
-  * Coding Contest
 - [Hackathons](./Hackathons.md) 
  ## **Coding Contest v/s Hackathons**
 
